@@ -147,7 +147,9 @@ The assignment requires detailed walkthroughs explaining the code snippets, impl
 
 ### Part 1 — EDA, Data Preparation, and AutoML
 
-**YouTube:** [Add Part 1 walkthrough URL]
+**YouTube:** 
+Part 1A: https://youtu.be/UWhqr9QkEEc  
+Part 1B: https://youtu.be/vdZiXQKVa2w  
 
 The video will cover:
 
@@ -163,7 +165,7 @@ The video will cover:
 
 ### Part 2 — Gemini Agentic EDA
 
-**YouTube:** [Add Part 2 walkthrough URL]
+**YouTube:** https://youtu.be/1D2CIUWHx8s
 
 The video will cover:
 
